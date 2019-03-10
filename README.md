@@ -18,5 +18,5 @@ If : condition check and move If its right.
 If-else: condition check and do things if its right or not accordingly.
 
 
-[Website link](https://www.techgig.com/practice/question/ajErdEI2NlRTWmJ2K1lKTVMyZlljdz09)
+[Website link](https://www.techgig.com/practice/question/ajErdEI2NlRTWmJ2K1lKTVMyZlljdz09) <br />
 [Ppt link](https://drive.google.com/file/d/1Te1rDn3SNPTC9Eg3owoIDp6iz2WM1_79/view?usp=sharing)
